@@ -1,16 +1,11 @@
 # codcontrolv7
 Generador de Código de Control para facturación en Bolivia. Libreria basada en la especificación v.7 del SIN.
 
-
+<br />
 Clase para Generación de Código de Control para Facturas<br />
-
 Segun especificaciones v7 del Servicio de Impuestos Nacionales de Bolivia<br />
-
 Copyright (c) 2015-2015 Carlos Anibarro Zelaya<br />
-
-CAnibarro(at)WhiteSith(dot)com
-
-
+CAnibarro(at)WhiteSith(dot)com<br />
 
 ## Fuentes:
   [http://www.impuestos.gob.bo/index.php?option=com_content&view=article&id=1564&Itemid=584](http://www.impuestos.gob.bo/index.php?option=com_content&view=article&id=1564&Itemid=584)<br />
@@ -43,21 +38,27 @@ CAnibarro(at)WhiteSith(dot)com
   que da el Servicio de Impuestos Nacionales.
 
   Para ejecutar en Linux/Unix:
+  ```
   chmod +x prueba.clase.php
   ./prueba.clase.php
+  ```
   o bien:
+  ```
   /usr/bin/php -q prueba.clase.php
+  ```
   dependiendo de la ruta en la que tenga instalado PHP
 
   Para ejecutar en Windows:
   Ubiquese en el path/ruta/directorio en el que tiene la clase
   Luego, llame a PHP y ejecute el programa:
+  ```
   c:\php\php.exe -q prueba.clase.php
+```
 
-** Versiones
+## Versiones
    1.0 primera version lanzada
 
-** Licencia
+## Licencia
    Esta era una implementación privada, hecha para un sistema que diseñé.
    Incluye código, implementaciones, ideas y sugerencias de varias personas y genios
    que tuvieron la paciencia de revisar cada sistema de encriptación. 
