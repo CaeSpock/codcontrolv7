@@ -33,7 +33,7 @@ CAnibarro(at)WhiteSith(dot)com<br />
    $codigocontrol = $CodigoControl->generar($autorizacion, $nrofactura, $nitci, $fecha, $monto, $llave);
 ```
 
-  Hay un fichero con 5000 casos de uso.
+  Hay un fichero con 5000 casos de uso.<br />
   Así mismo, el programa prueba.clase.php evaluará y generará el código de control y lo comparará con el resultado
   que da el Servicio de Impuestos Nacionales.
 
@@ -48,7 +48,7 @@ CAnibarro(at)WhiteSith(dot)com<br />
   ```
   dependiendo de la ruta en la que tenga instalado PHP
 
-  Para ejecutar en Windows:
+  Para ejecutar en Windows:<br />
   Ubiquese en el path/ruta/directorio en el que tiene la clase
   Luego, llame a PHP y ejecute el programa:
   ```
@@ -59,11 +59,11 @@ CAnibarro(at)WhiteSith(dot)com<br />
    1.0 primera version lanzada
 
 ## Licencia
-   Esta era una implementación privada, hecha para un sistema que diseñé.
+   Esta era una implementación privada, hecha para un sistema que diseñé.<br />
    Incluye código, implementaciones, ideas y sugerencias de varias personas y genios
-   que tuvieron la paciencia de revisar cada sistema de encriptación. 
+   que tuvieron la paciencia de revisar cada sistema de encriptación. <br />
    Yo solo encontré lo que necesitaba, lo junté y me aseguré de que
-   funcionará correctamente. :)
+   funcionará correctamente. :)<br />
    Libero el código, para fines investigativos y de posibles mejoras bajo la licencia
-   GPL v3 incluida en el archivo comprimido.
+   GPL v3 incluida en el archivo comprimido.<br />
 
